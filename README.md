@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Mi nombre es Jhosep Argomedo</h1>
 <h3 align="center">Soy un estudiante peruano de Ingeniería de Software en la UPC. Apasionado por la programación en C++. ¡En busca de crear soluciones innovadoras! 🚀👨‍💻</h3>
 
-- No laboro, continuo estudiando. **🤓**
+- Aspirante a Ingeniero de Software en Microsoft. **🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
