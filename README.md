@@ -50,13 +50,3 @@
   <a href="mailto:jhosepjamil@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>      </a>
   <a href="mailto:U20231D978@upc.edu.pe"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35"           alt="microsoft-outlook logo"/></a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.postimg.cc/q7ZTrLbx/logo-github-1.png"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/JosiFat/JosiFat/output/snake.svg" alt="Snake animation" />
-
-###
