@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Soy un estudiante peruano de Ingeniería de Software en la UPC. Apasionado por la programación en C++. ¡En busca de crear soluciones innovadoras! 🚀👨‍💻</p>
+<p align="center">Soy un estudiante peruano de Ingeniería de Software en la UPC. Apasionado por la programación en C++. ¡En búsqueda de crear soluciones innovadoras! 🚀👨‍💻</p>
 
 ###
 
