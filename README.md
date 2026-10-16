@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Jhosep Argomedo</h1>
-<h3 align="center">💻 Estudiante de Ingeniería de Software | 🚀 Developer en formación</h3>
+<h3 align="center">💻 Estudiante de Ingeniería de Software | 🚀 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7ab5d5&size=22&center=true&vCenter=true&width=500&lines=Apasionado+por+la+programación;Construyendo+proyectos+reales;Siempre+aprendiendo+nuevas+tecnologías" />
